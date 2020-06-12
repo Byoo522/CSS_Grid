@@ -1,2 +1,2 @@
 # CSS_Grid
- CSS Gird Basics & Columns
+ CSS Grid Basics & Columns
